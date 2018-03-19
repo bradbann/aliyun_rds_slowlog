@@ -10,7 +10,7 @@ Written with Python 3.6.4. Not tested on other versions.
 - aliyun-python-sdk-rds
 
 ```Shell
-$ pip install -f requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Example
